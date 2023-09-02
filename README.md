@@ -34,9 +34,16 @@ webpage: https://dila93.github.io/cspereira/
 npm install
 ```
 
-### RUN
+### RUN LOCAL PROJECT
 ```
 npm run start
+```
+
+### RUN CHANGES ON THE GITHUB WEB PAGE
+this should be executed after upload the code changes to the repository
+```
+npm run build
+npm run deploy
 ```
 
 ## DOCUMENTATION
