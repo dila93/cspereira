@@ -15,7 +15,7 @@ function App() {
         {
           "width": "100vw", 
           "height": "100vh", 
-          "background": "grey",
+          "background": "white",
           "display": "flex",
           "flex-direction": "column",
           "justifyContent": "center",
