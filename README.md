@@ -2,7 +2,7 @@
 
 This is a project for travelers to show information about events, turistic places, groups in Pereira
 
-webpage: 
+webpage: https://dila93.github.io/cspereira/
 
 ## REQUIREMENTS
 ### WINDOWS
