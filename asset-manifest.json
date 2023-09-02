@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/cspereira/static/css/main.e6c13ad2.css",
-    "main.js": "/cspereira/static/js/main.bc30a4c9.js",
+    "main.js": "/cspereira/static/js/main.6cdd400b.js",
     "static/js/787.df2c6ddd.chunk.js": "/cspereira/static/js/787.df2c6ddd.chunk.js",
-    "static/media/Couchsurfing_Pereira_1.png": "/cspereira/static/media/Couchsurfing_Pereira_1.8dd3dba209687d78ab50.png",
+    "static/media/Couchsurfing_Pereira_1.png": "/cspereira/static/media/Couchsurfing_Pereira_1.59475a91b167e55720e8.png",
     "index.html": "/cspereira/index.html",
     "main.e6c13ad2.css.map": "/cspereira/static/css/main.e6c13ad2.css.map",
-    "main.bc30a4c9.js.map": "/cspereira/static/js/main.bc30a4c9.js.map",
+    "main.6cdd400b.js.map": "/cspereira/static/js/main.6cdd400b.js.map",
     "787.df2c6ddd.chunk.js.map": "/cspereira/static/js/787.df2c6ddd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.bc30a4c9.js"
+    "static/js/main.6cdd400b.js"
   ]
 }
